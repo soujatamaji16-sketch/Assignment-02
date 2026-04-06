@@ -1,4 +1,3 @@
-package level2;
 import java.util.Scanner;
 public class FizzBuzzFor {
     public static void main(String[] args) {
